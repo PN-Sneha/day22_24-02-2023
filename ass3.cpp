@@ -1,0 +1,7 @@
+#include<stdio.h>
+main()
+{
+	int i,j;
+	for(i=1,j=12;i<=12&&j>=1;i++,j--)
+	printf("%d %d\n",i,j);
+}
